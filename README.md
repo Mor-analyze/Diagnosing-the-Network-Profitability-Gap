@@ -65,7 +65,7 @@ join total_maintenance_per_rout tmp on fc.route_id = tmp.route_id
 order by Profit desc
 ```
 #### Full SQL logic is available in the /sql folder.
-https://github.com/Mor-analyze/Logistics-Operations---Route-Profitability-Analysis/blob/main/SQL%20Analysis.sql
+https://github.com/Mor-analyze/Logistics-Operations---Route-Profitability-Analysis/blob/main/analysis.sql
 
 ### Output
 <img width="695" height="172" alt="top 10" src="https://github.com/user-attachments/assets/3e8f7c24-5f8d-449a-8786-323eabe3eb41" />
