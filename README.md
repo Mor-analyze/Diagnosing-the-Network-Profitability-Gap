@@ -68,7 +68,7 @@ order by Profit desc
 https://github.com/Mor-analyze/Logistics-Operations---Route-Profitability-Analysis/blob/main/analysis.sql
 
 ### Output
-<img width="695" height="172" alt="top 10" src="https://github.com/user-attachments/assets/3e8f7c24-5f8d-449a-8786-323eabe3eb41" />
+![output](output.png)
 
 ### Challenges
 
@@ -81,7 +81,7 @@ https://github.com/Mor-analyze/Logistics-Operations---Route-Profitability-Analys
 - It enables comparison across routes, highlights the relationship between distance and profit margin, and surfaces loss-making routes for further investigation.
 - By combining financial metrics with visual insights, the dashboard supports data-driven decisions around pricing, route optimization, and cost control.
 
-<img width="656" height="363" alt="Project dashboard" src="https://github.com/user-attachments/assets/4c1d8c96-3a5f-4064-bceb-f7aa504b2dcf" />
+![Dashboard](Dashboard.png)
 
 
 ## 6. Insights
